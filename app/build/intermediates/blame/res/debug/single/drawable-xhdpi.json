@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\GitHubSample\\FaceRecognition-master\\Unity3DwithAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_banner.png",
+        "source": "D:\\GitHubSample\\FaceRecognition-master\\Unity3DwithAndroid\\app\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "D:\\GitHubSample\\FaceRecognition-master\\Unity3DwithAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_icon.png",
+        "source": "D:\\GitHubSample\\FaceRecognition-master\\Unity3DwithAndroid\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    }
+]

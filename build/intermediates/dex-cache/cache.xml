@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\GitHubSample\FaceRecognition-master\Unity3DwithAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1e403c755d5447e481b7bfa8dd157293d46c062">
+        <dex dex="D:\GitHubSample\FaceRecognition-master\Unity3DwithAndroid\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d18460c523feca7bd9245a060479117c23d34a46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHubSample\FaceRecognition-master\Unity3DwithAndroid\app\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e5f0bba9ec09f6878042e5c4b4312c3fce2632a">
+        <dex dex="D:\GitHubSample\FaceRecognition-master\Unity3DwithAndroid\app\build\intermediates\pre-dexed\debug\unity-classes_736f8be2e2990a327de7183b900eb639ee624a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHubSample\FaceRecognition-master\Unity3DwithAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d209af77c13df249c06f5eb29a34df6f02eb2e7">
+        <dex dex="D:\GitHubSample\FaceRecognition-master\Unity3DwithAndroid\app\build\intermediates\pre-dexed\debug\instant-run_a48f82fe126ca0d7df7bf267291f1b5124f1dd31.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Sun Dec 11 16:12:06 CST 2016
+base.0=D\:\\GitHubSample\\FaceRecognition-master\\Unity3DwithAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\GitHubSample\\FaceRecognition-master\\Unity3DwithAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
